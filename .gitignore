@@ -1,0 +1,12 @@
+# Build outputs
+/xdg-desktop-portal-ash
+*.o
+*.o.tmp
+*.a
+*.so
+*.so.*
+build/
+out/
+# Python
+__pycache__/
+*.py[cod]
